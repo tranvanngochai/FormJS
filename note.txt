@@ -1,0 +1,8 @@
+Kiem tra du lieu nhap vào form vơi cac yeu cau sau:
+Ho va ten khong duoc de trong.
+Ho va ten khong duoc nhap it hon 8 ky tu.
+Vi tri lam viec khong duoc de trong.
+Vi tri lam viec khong duoc nhap nhieu hon 100 ky tu.
+Luong khong duoc la so am.
+Phai chon gioi tinh.
+Sau khi an luu neu thoa man tat ca cac dieu kien tren thi hien thi thong tin vua nhap xuong duoi.

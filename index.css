@@ -1,0 +1,42 @@
+.container{
+    padding: 40px;
+    width: 20%;
+    margin: auto;
+    border: solid 1px black;
+}
+.container h2{
+    width: 75%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.container span{
+    display: block;
+    margin-top: 10px;
+}
+.container span span{
+    display: inline;
+}
+.container .show span{
+    display: inline;
+}
+button{
+    border-radius: 1rem;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: #28800e;
+}
+button:hover{
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    background-color: #54be34;
+}
+.luu{
+    width: 40%;
+    margin: auto;
+}
+.show{
+    display: none;
+}
